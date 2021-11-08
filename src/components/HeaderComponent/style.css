@@ -1,0 +1,8 @@
+.header {
+  width: 80%;
+  height: 20%;
+  border: 3px grey solid;
+  border-radius: 10px;
+  margin: auto;
+  padding: 2rem;
+}

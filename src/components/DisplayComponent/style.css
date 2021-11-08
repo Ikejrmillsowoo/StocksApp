@@ -1,0 +1,8 @@
+.main-display {
+    width: 80%;
+    height: 100vh;
+    border: 3px grey solid;
+    border-radius: 10px;
+    margin: auto;
+    padding: 2rem;
+}
