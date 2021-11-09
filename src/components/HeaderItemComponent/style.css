@@ -1,0 +1,27 @@
+.header-items {
+    display: flex;
+    justify-content: space-around;
+    
+    
+}
+.header-item {
+ display: flex;
+ flex-direction: column;
+ justify-content: flex-start;
+ /* align-items: ; */
+ width:10rem;
+ height: auto;
+ border-right: 2px solid rgba(197, 195, 195, 0.397);
+ font-size: .8rem;
+ margin-bottom: 10px;
+}
+.top-item {
+    display: flex;
+    justify-content: space-between;
+    margin: .8rem;
+}
+
+.last-item {
+    border: none;
+}
+
